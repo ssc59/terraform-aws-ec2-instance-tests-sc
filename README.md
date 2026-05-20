@@ -14,3 +14,4 @@ module "ec2_instances" {
 
 Testing integration workflow.
 Retry after adding AWS credentials.
+Retry after saving test variables.
